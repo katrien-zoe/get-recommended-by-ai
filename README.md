@@ -3,7 +3,6 @@
 A system for getting a B2B software company named when a buyer asks an AI tool which software to use.
 
 When someone asks ChatGPT, Claude, Perplexity, Gemini, or Google's AI mode which software to pick, this is about making sure your company is in the answer, and described for the right reasons. 
-
 Some people call this AEO, answer engine optimisation. Others call it GEO, generative engine optimisation. 
 
 ## Why this matters now
