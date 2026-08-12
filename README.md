@@ -54,3 +54,7 @@ This does not make an AI recommend you next week. Nobody can promise that, and a
 It also will not fix a product that buyers do not rate. AI leans on what real customers say. If the reviews are thin or unhappy, the honest fix is upstream of anything in this repo.
 
 Results differ by engine and by category, so treat the measurement file as the source of truth for your own case, not the general claims above.
+
+## Related
+
+Part of [marketing-os](https://github.com/katrien-zoe/marketing-os), a set of marketing systems kept as public templates. A companion module, [context-layer](https://github.com/katrien-zoe/context-layer), covers writing down a company's context so AI produces work that sounds like your company. That one is about the AI you use. This one is about the AI your buyers use.
