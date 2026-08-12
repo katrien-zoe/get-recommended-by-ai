@@ -2,9 +2,9 @@
 
 A system for getting a B2B software company named when a buyer asks an AI tool which software to use.
 
-This is the companion problem to the context layer. That work is about giving AI your context so it writes for you. This is about making sure the AI your buyers use already knows who you are, and recommends you for the right reasons.
+When someone asks ChatGPT, Claude, Perplexity, Gemini, or Google's AI mode which software to pick, this is about making sure your company is in the answer, and described for the right reasons. 
 
-Some people call this AEO, answer engine optimisation. Others call it GEO, generative engine optimisation. Same job: showing up in the answer when someone asks ChatGPT, Claude, Perplexity, Gemini, or Google's AI mode which tool to pick.
+Some people call this AEO, answer engine optimisation. Others call it GEO, generative engine optimisation. 
 
 ## Why this matters now
 
